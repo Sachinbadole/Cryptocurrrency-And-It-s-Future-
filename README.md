@@ -10,14 +10,14 @@ To solve this we have build a platform named as "Cryptocurrency And Its Future"
 Platform provides deatils of cryptocurrency like bitcoin and ethereum and also it provides the predicted price of currency for net 150 days. 
 
 
-We use RNN LSTM to build the prediction model.
-Frameworks and librarirs are : 
-# Pandas Numpy Matplotlib scikit-learn
-# Tensorflow, Keras.
-# Streamlit
-# Pycharm
-# jupyter Notebook
-# Data Lore 
+# We use RNN LSTM to build the prediction model.
+# Frameworks and librarirs are : 
+Pandas Numpy Matplotlib scikit-learn
+Tensorflow, Keras.
+streamlit
+Pycharm
+Jupyter Notebook
+Data Lore 
 
 TO run the project follow below steps:
 # create a virtual enviroment in pycharm
