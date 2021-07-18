@@ -32,4 +32,4 @@ pip install matplotlib
 # Open terminal and pass command 
 streamlit run main.py
 # This will take few seconds and the web app gets automatically open in web browser.
-# Note : Do not copy local host link and open it in MObile Phones. 
+# Note : Do not copy local host link and open it in Mobile Phones. 
