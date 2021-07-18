@@ -1,4 +1,4 @@
-**Cryptocurrrency And It's Future**
+# Cryptocurrrency And It's Future
 
 The popularity of cryptocurrencies increased in 2017 due to several consecutive months of clear growth in their market capitalization. Prices rose more than $ 800 billion in January 2018.
 Although machine learning has been successful in predicting stock market prices using a number of different time series models, its use in digital currency price forecast has been relatively limited. The reason for this is obvious as the prices of cryptocurrencies depend on many factors such as technological advances, internal competition, pressure on delivery markets, economic problems, security issues, politics and more. Their high volatility leads to the great potential of high profit if intelligent strategies are taken for prediction. Unfortunately, due to their lack of indicators, cryptocurrencies are less reliable compared to traditional financial predictions like stock market speculation.
