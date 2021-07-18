@@ -28,7 +28,7 @@ pip install pandas
 pip install numpy
 pip install matplotlib
 
-# After loading libraries in environment, go to the folder where virtua; environment is created and paste the images which are in the repository.
+# After loading libraries in environment, go to the folder where virtual environment is created and paste the images and datasets which are in the repository.
 # Open terminal and pass command 
 streamlit run main.py
 # This will take few seconds and the web app gets automatically open in web browser.
